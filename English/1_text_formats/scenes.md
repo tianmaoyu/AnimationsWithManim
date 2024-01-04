@@ -14,7 +14,7 @@ class WriteText(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/WriteText.gif" /></p>
+<p align="center"><img src ="gifs/WriteText.gif" /></p>
 
 ```python3
 class AddText(Scene): 
@@ -24,7 +24,7 @@ class AddText(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/AddText.gif" /></p>
+<p align="center"><img src =" gifs/AddText.gif" /></p>
 
 ```python3
 class Formula(Scene): 
@@ -34,7 +34,7 @@ class Formula(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/Formula.gif" /></p>
+<p align="center"><img src =" gifs/Formula.gif" /></p>
 
 ```python3
 class TypesOfText(Scene): 
@@ -48,7 +48,7 @@ class TypesOfText(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TipesOfText.gif" /></p>
+<p align="center"><img src =" gifs/TipesOfText.gif" /></p>
 
 ```python3
 class TypesOfText2(Scene): 
@@ -62,7 +62,7 @@ class TypesOfText2(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TipesOfText2.gif" /></p>
+<p align="center"><img src =" gifs/TipesOfText2.gif" /></p>
 
 ```python3
 class DisplayFormula(Scene): 
@@ -76,7 +76,7 @@ class DisplayFormula(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/DisplayFormula.gif" /></p>
+<p align="center"><img src =" gifs/DisplayFormula.gif" /></p>
 
 ```python3
 class TextInCenter(Scene):
@@ -86,7 +86,7 @@ class TextInCenter(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TextInCenter.gif" /></p>
+<p align="center"><img src =" gifs/TextInCenter.gif" /></p>
 
 ```python3
 class TextOnTopEdge(Scene):
@@ -97,7 +97,7 @@ class TextOnTopEdge(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TextOnTopEdge.gif" /></p>
+<p align="center"><img src =" gifs/TextOnTopEdge.gif" /></p>
 
 ```python3
 class TextOnBottomEdge(Scene):
@@ -108,7 +108,7 @@ class TextOnBottomEdge(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TextOnBottomEdge.gif" /></p>
+<p align="center"><img src =" gifs/TextOnBottomEdge.gif" /></p>
 
 ```python3
 class TextOnRightEdge(Scene):
@@ -119,7 +119,7 @@ class TextOnRightEdge(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TextOnRightEdge.gif" /></p>
+<p align="center"><img src =" gifs/TextOnRightEdge.gif" /></p>
 
 ```python3
 class TextOnLeftEdge(Scene):
@@ -130,7 +130,7 @@ class TextOnLeftEdge(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TextOnLeftEdge.gif" /></p>
+<p align="center"><img src =" gifs/TextOnLeftEdge.gif" /></p>
 
 ```python3
 class TextInUpperRightCorner(Scene):
@@ -141,7 +141,7 @@ class TextInUpperRightCorner(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TextInUpperRightCorner.gif" /></p>
+<p align="center"><img src =" gifs/TextInUpperRightCorner.gif" /></p>
 
 ```python3
 class TextInLowerLeftCorner(Scene): 
@@ -152,7 +152,7 @@ class TextInLowerLeftCorner(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/TextInLowerLeftCorner.gif" /></p>
+<p align="center"><img src =" gifs/TextInLowerLeftCorner.gif" /></p>
 
 ```python3
 class CustomPosition1(Scene):
@@ -164,7 +164,7 @@ class CustomPosition1(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/CustomPosition1.gif" /></p>
+<p align="center"><img src =" gifs/CustomPosition1.gif" /></p>
 
 ```python3
 class CustomPosition2(Scene):
@@ -179,7 +179,7 @@ class CustomPosition2(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/CustomPosition2.gif" /></p>
+<p align="center"><img src =" gifs/CustomPosition2.gif" /></p>
 
 ```python3
 class RelativePosition1(Scene):
@@ -191,7 +191,7 @@ class RelativePosition1(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/RelativePosition1.gif" /></p>
+<p align="center"><img src =" gifs/RelativePosition1.gif" /></p>
 
 ```python3
 class RelativePosition2(Scene):
@@ -203,7 +203,7 @@ class RelativePosition2(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/RelativePosition2.gif" /></p>
+<p align="center"><img src =" gifs/RelativePosition2.gif" /></p>
 
 ```python3
 class RotateObject(Scene):
@@ -225,7 +225,7 @@ class RotateObject(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/RotateObject.gif" /></p>
+<p align="center"><img src =" gifs/RotateObject.gif" /></p>
 
 ```python3
 class FlipObject(Scene):
@@ -236,7 +236,7 @@ class FlipObject(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/MirrorObject.gif" /></p>
+<p align="center"><img src =" gifs/MirrorObject.gif" /></p>
 
 ```python3
 class SizeTextOnLaTeX(Scene):
@@ -265,7 +265,7 @@ class SizeTextOnLaTeX(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/1_text_formats/gifs/SizeTextOnLaTeX.gif" /></p>
+<p align="center"><img src =" gifs/SizeTextOnLaTeX.gif" /></p>
 
 ```python3
 class TextFonts(Scene):
@@ -285,4 +285,4 @@ class TextFonts(Scene):
         self.add(textNormal,textItalic,textTypewriter,textBold,textSL,textSC)
         self.wait(3)
 ```
-<p align="center"><img src ="/English/1_text_formats/gifs/TextFonts.gif" /></p>
+<p align="center"><img src =" gifs/TextFonts.gif" /></p>

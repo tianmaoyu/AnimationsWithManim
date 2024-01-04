@@ -44,7 +44,7 @@ class Plot1(GraphScene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot1.gif" /></p>
+<p align="center"><img src ="gifs/Plot1.gif" /></p>
 
 ```python3
 class Plot1v2(GraphScene):
@@ -72,7 +72,7 @@ class Plot1v2(GraphScene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot1v2.gif" /></p>
+<p align="center"><img src =" gifs/Plot1v2.gif" /></p>
 
 ```python3
 class Plot2(GraphScene):
@@ -132,7 +132,7 @@ class Plot2(GraphScene):
         )
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot2.gif" /></p>
+<p align="center"><img src =" gifs/Plot2.gif" /></p>
 
 ```python3
 class Plot3(GraphScene):
@@ -171,7 +171,7 @@ class Plot3(GraphScene):
         self.play(Write(self.x_axis),Write(self.y_axis))
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot3.gif" /></p>
+<p align="center"><img src =" gifs/Plot3.gif" /></p>
 
 ```python3
 class Plot4(GraphScene):
@@ -202,7 +202,7 @@ class Plot4(GraphScene):
         self.play(Write(self.x_axis),Write(self.y_axis))
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot4.gif" /></p>
+<p align="center"><img src =" gifs/Plot4.gif" /></p>
 
 ```python3
 class Plot5(GraphScene):
@@ -246,7 +246,7 @@ class Plot5(GraphScene):
         )
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot5.gif" /></p>
+<p align="center"><img src =" gifs/Plot5.gif" /></p>
 
 ```python3
 class Plot6(GraphScene):
@@ -294,7 +294,7 @@ class Plot6(GraphScene):
         )
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot6.gif" /></p>
+<p align="center"><img src =" gifs/Plot6.gif" /></p>
 
 ```python3
 class Plot7(GraphScene):
@@ -346,7 +346,7 @@ class Plot7(GraphScene):
         )
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/Plot7.gif" /></p>
+<p align="center"><img src =" gifs/Plot7.gif" /></p>
 
 ```python3
 class PlotSinCos(GraphScene):
@@ -442,7 +442,7 @@ class PlotSinCos(GraphScene):
         )
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/PlotSinCos.gif" /></p>
+<p align="center"><img src =" gifs/PlotSinCos.gif" /></p>
         
 ```python3
 class PlotGraph(GraphScene):
@@ -484,4 +484,4 @@ class PlotGraph(GraphScene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/PlotGraph.gif" /></p>
+<p align="center"><img src =" gifs/PlotGraph.gif" /></p>
