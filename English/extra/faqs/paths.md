@@ -71,7 +71,7 @@ class ShowPoints(PathScene):
     pass
 ```
 
-<p align="center"><img src ="/English/extra/faqs/gifs/ShowPoints.png" width="800" /></p>
+<p align="center"><img src ="gifs/ShowPoints.png" width="800" /></p>
 
 ## Path as corners
 ```python
@@ -82,7 +82,7 @@ class PathAsCorners(PathScene):
         self.add(path)
 ```
 
-<p align="center"><img src ="/English/extra/faqs/gifs/PathAsCorners.png" width="800" /></p>
+<p align="center"><img src =" gifs/PathAsCorners.png" width="800" /></p>
 
 ## Path smoothly
 ```python
@@ -93,7 +93,7 @@ class PathSmoothly(PathScene):
         self.add(path)
 ```
 
-<p align="center"><img src ="/English/extra/faqs/gifs/PathSmoothly.png" width="800" /></p>
+<p align="center"><img src =" gifs/PathSmoothly.png" width="800" /></p>
 
 ## Bezier points of a path
 ```python
@@ -105,7 +105,7 @@ class PathBezierPoints(PathScene):
         self.add(path,bezier_points)
 ```
 
-<p align="center"><img src ="/English/extra/faqs/gifs/PathBezierPoints.png" width="800" /></p>
+<p align="center"><img src =" gifs/PathBezierPoints.png" width="800" /></p>
 
 ## Append points
 ```python
@@ -139,7 +139,7 @@ class AppendPoints(PathScene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/extra/faqs/gifs/AppendPoints.gif" width="800" /></p>
+<p align="center"><img src =" gifs/AppendPoints.gif" width="800" /></p>
 
 ## Change path style
 ```python
@@ -158,6 +158,6 @@ class TransformPathStyle(PathScene):
         """
 ```
 
-<p align="center"><img src ="/English/extra/faqs/gifs/TransformPathStyle.gif" width="800" /></p>
+<p align="center"><img src =" gifs/TransformPathStyle.gif" width="800" /></p>
 
 More methods in the [current version](https://github.com/3b1b/manim/blob/master/manimlib/mobject/types/vectorized_mobject.py#L397)

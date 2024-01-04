@@ -26,7 +26,7 @@ class MoveBraces(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/MoveBraces.gif" /></p>
+<p align="center"><img src =" gifs/MoveBraces.gif" /></p>
 
 ```python3
 class MoveBracesCopy(Scene):
@@ -52,7 +52,7 @@ class MoveBracesCopy(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/MoveBracesCopy.gif" /></p>
+<p align="center"><img src =" gifs/MoveBracesCopy.gif" /></p>
 
 ```python3
 class MoveFrameBox(Scene):
@@ -74,7 +74,7 @@ class MoveFrameBox(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/MoveFrameBox.gif" /></p>
+<p align="center"><img src =" gifs/MoveFrameBox.gif" /></p>
 
 ```python3
 class MoveFrameBoxCopy(Scene):
@@ -95,7 +95,7 @@ class MoveFrameBoxCopy(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/MoveFrameBoxCopy.gif" /></p>
+<p align="center"><img src =" gifs/MoveFrameBoxCopy.gif" /></p>
 
 ```python3
 class MoveFrameBoxCopy2(Scene):
@@ -123,7 +123,7 @@ class MoveFrameBoxCopy2(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/MoveFrameBoxCopy2.gif" /></p>
+<p align="center"><img src =" gifs/MoveFrameBoxCopy2.gif" /></p>
 
 ```python3
 class Arrow1(Scene):
@@ -141,7 +141,7 @@ class Arrow1(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/Arrow1.gif" /></p>
+<p align="center"><img src =" gifs/Arrow1.gif" /></p>
 
 ```python3
 class Arrow2(Scene):
@@ -160,7 +160,7 @@ class Arrow2(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/Arrow2.gif" /></p>
+<p align="center"><img src =" gifs/Arrow2.gif" /></p>
 
 ```python3
 class LineAnimation(Scene):
@@ -179,7 +179,7 @@ class LineAnimation(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/LineAnimation.gif" /></p>
+<p align="center"><img src =" gifs/LineAnimation.gif" /></p>
 
 ```python3
 class DashedLineAnimation(Scene):
@@ -198,7 +198,7 @@ class DashedLineAnimation(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/DashedLineAnimation.gif" /></p>
+<p align="center"><img src =" gifs/DashedLineAnimation.gif" /></p>
 
 ```python3
 class LineAnimation2(Scene):
@@ -216,7 +216,7 @@ class LineAnimation2(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/LineAnimation2.gif" /></p>
+<p align="center"><img src =" gifs/LineAnimation2.gif" /></p>
 
 ```python3
 class LineAnimation3(Scene):
@@ -238,4 +238,4 @@ class LineAnimation3(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/5_visual_tools/gifs/LineAnimation3.gif" /></p>
+<p align="center"><img src =" gifs/LineAnimation3.gif" /></p>

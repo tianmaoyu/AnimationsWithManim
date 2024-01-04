@@ -15,7 +15,7 @@ class TextColor(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/TextColor.gif" /></p>
+<p align="center"><img src ="gifs/TextColor.gif" /></p>
 
 ```python3
 class FormulaColor1(Scene): 
@@ -30,7 +30,7 @@ class FormulaColor1(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FormulaColor1.gif" /></p>
+<p align="center"><img src =" gifs/FormulaColor1.gif" /></p>
 
 ```python3
 class FormulaColor2(Scene): 
@@ -43,7 +43,7 @@ class FormulaColor2(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FormulaColor2.gif" /></p>
+<p align="center"><img src =" gifs/FormulaColor2.gif" /></p>
 
 ```python3
 class FormulaColor3(Scene): 
@@ -61,7 +61,7 @@ class FormulaColor3(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FormulaColor3.gif" /></p>
+<p align="center"><img src =" gifs/FormulaColor3.gif" /></p>
 
 ```python3
 class FormulaColor3Fixed(Scene): 
@@ -79,7 +79,7 @@ class FormulaColor3Fixed(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FormulaColor3Fixed.gif" /></p>
+<p align="center"><img src =" gifs/FormulaColor3Fixed.gif" /></p>
 
 ```python3
 class FormulaColor3Fixed2(Scene): 
@@ -99,7 +99,7 @@ class FormulaColor3Fixed2(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FormulaColor3Fixed2.gif" /></p>
+<p align="center"><img src =" gifs/FormulaColor3Fixed2.gif" /></p>
 
 ```python3
 class FormulaColor4(Scene): 
@@ -121,7 +121,7 @@ class FormulaColor4(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FormulaColor4.gif" /></p>
+<p align="center"><img src =" gifs/FormulaColor4.gif" /></p>
 
 ```python3
 class FormulaColor5(Scene): 
@@ -134,7 +134,7 @@ class FormulaColor5(Scene):
 
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FormulaColor5.gif" /></p>
+<p align="center"><img src =" gifs/FormulaColor5.gif" /></p>
 
 ```python3
 class ColorByCaracter(Scene):
@@ -145,7 +145,7 @@ class ColorByCaracter(Scene):
 		self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ColorByCaracter.gif" /></p>
+<p align="center"><img src =" gifs/ColorByCaracter.gif" /></p>
 
 ```python3
 class ColorByCaracterFixed(Scene): 
@@ -158,7 +158,7 @@ class ColorByCaracterFixed(Scene):
 		self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ColorByCaracterFixed.gif" /></p>
+<p align="center"><img src =" gifs/ColorByCaracterFixed.gif" /></p>
 
 ```python3
 class ListFor(Scene): 
@@ -170,7 +170,7 @@ class ListFor(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ListFor.gif" /></p>
+<p align="center"><img src =" gifs/ListFor.gif" /></p>
 
 ```python3
 class ForRange1(Scene): 
@@ -182,7 +182,7 @@ class ForRange1(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ForRange1.gif" /></p>
+<p align="center"><img src =" gifs/ForRange1.gif" /></p>
 
 ```python3
 class ForRange2(Scene): 
@@ -194,7 +194,7 @@ class ForRange2(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ForRange2.gif" /></p>
+<p align="center"><img src =" gifs/ForRange2.gif" /></p>
 
 ```python3
 class ForTwoVariables(Scene): 
@@ -206,7 +206,7 @@ class ForTwoVariables(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ForTwoVariables.gif" /></p>
+<p align="center"><img src =" gifs/ForTwoVariables.gif" /></p>
 
 ```python3
 class ChangeSize(Scene):
@@ -218,7 +218,7 @@ class ChangeSize(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ChangeSize.gif" /></p>
+<p align="center"><img src =" gifs/ChangeSize.gif" /></p>
 
 ```python3
 class AddAndRemoveText(Scene):
@@ -231,7 +231,7 @@ class AddAndRemoveText(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/AddAndRemoveText.gif" /></p>
+<p align="center"><img src =" gifs/AddAndRemoveText.gif" /></p>
 
 ```python3
 class FadeText(Scene):
@@ -243,7 +243,7 @@ class FadeText(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FadeText.gif" /></p>
+<p align="center"><img src =" gifs/FadeText.gif" /></p>
 
 ```python3
 class FadeTextFromDirection(Scene):
@@ -253,7 +253,7 @@ class FadeTextFromDirection(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FadeTextFromDirection.gif" /></p>
+<p align="center"><img src =" gifs/FadeTextFromDirection.gif" /></p>
 
 ```python3
 class GrowObjectFromCenter(Scene):
@@ -263,7 +263,7 @@ class GrowObjectFromCenter(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/GrowObjectFromCenter.gif" /></p>
+<p align="center"><img src =" gifs/GrowObjectFromCenter.gif" /></p>
 
 ```python3
 class ShowCreationObject(Scene):
@@ -273,7 +273,7 @@ class ShowCreationObject(Scene):
         self.wait()
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ShowCreationObject.gif" /></p>
+<p align="center"><img src =" gifs/ShowCreationObject.gif" /></p>
 
 ```python3
 class ColoringText(Scene):
@@ -290,7 +290,7 @@ class ColoringText(Scene):
         self.wait(0.5)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/ColoringText.gif" /></p>
+<p align="center"><img src =" gifs/ColoringText.gif" /></p>
 
 ```python3
 class CrossText1(Scene):
@@ -304,7 +304,7 @@ class CrossText1(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/CrossText1.gif" /></p>
+<p align="center"><img src =" gifs/CrossText1.gif" /></p>
 
 ```python3
 class CrossText2(Scene):
@@ -319,7 +319,7 @@ class CrossText2(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/CrossText2.gif" /></p>
+<p align="center"><img src =" gifs/CrossText2.gif" /></p>
 
 ```python3
 class FrameBox1(Scene):
@@ -335,7 +335,7 @@ class FrameBox1(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FrameBox1.gif" /></p>
+<p align="center"><img src =" gifs/FrameBox1.gif" /></p>
 
 ```python3
 class FrameBox2(Scene):
@@ -353,7 +353,7 @@ class FrameBox2(Scene):
         self.wait(2)
 ```
 
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/FrameBox2.gif" /></p>
+<p align="center"><img src =" gifs/FrameBox2.gif" /></p>
 
 ```python3
 class BraceText(Scene):
@@ -375,4 +375,4 @@ class BraceText(Scene):
             )
         self.wait()
 ```
-<p align="center"><img src ="/English/3_text_like_arrays/gifs/BraceText.gif" /></p>
+<p align="center"><img src =" gifs/BraceText.gif" /></p>

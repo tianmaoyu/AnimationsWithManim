@@ -10,7 +10,7 @@ class TransformationText1V1(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/TransformationText1V1.gif" /></p>
+<p align="center"><img src =" gifs/TransformationText1V1.gif" /></p>
 
 ```python3
 class TransformationText1V2(Scene):
@@ -24,7 +24,7 @@ class TransformationText1V2(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/TransformationText1V2.gif" /></p>
+<p align="center"><img src =" gifs/TransformationText1V2.gif" /></p>
 
 ```python3
 class TransformationText2(Scene):
@@ -46,7 +46,7 @@ class TransformationText2(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/TransformationText2.gif" /></p>
+<p align="center"><img src =" gifs/TransformationText2.gif" /></p>
 
 ```python3
 class CopyTextV1(Scene):
@@ -81,7 +81,7 @@ class CopyTextV1(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTextV1.gif" /></p>
+<p align="center"><img src =" gifs/CopyTextV1.gif" /></p>
 
 ```python3
 class CopyTextV2(Scene):
@@ -108,7 +108,7 @@ class CopyTextV2(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTextV2.gif" /></p>
+<p align="center"><img src =" gifs/CopyTextV2.gif" /></p>
 
 ```python3
 class CopyTextV3(Scene):
@@ -137,7 +137,7 @@ class CopyTextV3(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTextV3.gif" /></p>
+<p align="center"><img src =" gifs/CopyTextV3.gif" /></p>
 
 ```python3
 class CopyTextV4(Scene):
@@ -166,7 +166,7 @@ class CopyTextV4(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTextV4.gif" /></p>
+<p align="center"><img src =" gifs/CopyTextV4.gif" /></p>
 
 ```python3
 class CopyTwoFormulas1(Scene):
@@ -208,7 +208,7 @@ class CopyTwoFormulas1(Scene):
 			self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTwoFormulas1.gif" /></p>
+<p align="center"><img src =" gifs/CopyTwoFormulas1.gif" /></p>
 
 ```python3
 class CopyTwoFormulas2(Scene):
@@ -253,7 +253,7 @@ class CopyTwoFormulas2(Scene):
 			self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTwoFormulas2.gif" /></p>
+<p align="center"><img src =" gifs/CopyTwoFormulas2.gif" /></p>
 
 ```python3
 class CopyTwoFormulas2Color(Scene):
@@ -290,7 +290,7 @@ class CopyTwoFormulas2Color(Scene):
 			self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTwoFormulas2Color.gif" /></p>
+<p align="center"><img src =" gifs/CopyTwoFormulas2Color.gif" /></p>
 
 ```python3
 class CopyTwoFormulas3(Scene):
@@ -327,7 +327,7 @@ class CopyTwoFormulas3(Scene):
 			self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/CopyTwoFormulas3.gif" /></p>
+<p align="center"><img src =" gifs/CopyTwoFormulas3.gif" /></p>
 
 ```python3
 class ChangeTextColorAnimation(Scene):
@@ -343,7 +343,7 @@ class ChangeTextColorAnimation(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/ChangeTextColorAnimation.gif" /></p>
+<p align="center"><img src =" gifs/ChangeTextColorAnimation.gif" /></p>
 
 ```python3
 class ChangeSizeAnimation(Scene):
@@ -359,7 +359,7 @@ class ChangeSizeAnimation(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/ChangeSizeAnimation.gif" /></p>
+<p align="center"><img src =" gifs/ChangeSizeAnimation.gif" /></p>
 
 ```python3
 class MoveText(Scene):
@@ -377,7 +377,7 @@ class MoveText(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/MoveText.gif" /></p>
+<p align="center"><img src =" gifs/MoveText.gif" /></p>
 
 ```python3
 class ChangeColorAndSizeAnimation(Scene):
@@ -396,5 +396,5 @@ class ChangeColorAndSizeAnimation(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/ChangeColorAndSizeAnimation.gif" /></p>
+<p align="center"><img src =" gifs/ChangeColorAndSizeAnimation.gif" /></p>
 

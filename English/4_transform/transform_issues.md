@@ -28,7 +28,7 @@ class TransformIssues(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/TransformIssues.gif" /></p>
+<p align="center"><img src =" gifs/TransformIssues.gif" /></p>
 
 ```python3
 class TransformIssuesSolution1(Scene):
@@ -59,7 +59,7 @@ class TransformIssuesSolution1(Scene):
 		self.wait()
 ```
 
-<p align="center"><img src ="/English/4_transform/gifs/TransformIssuesSolution1.gif" /></p>
+<p align="center"><img src =" gifs/TransformIssuesSolution1.gif" /></p>
 
 ```python3
 class TransformIssuesSolutionInfallible(Scene):
@@ -100,6 +100,6 @@ class TransformIssuesSolutionInfallible(Scene):
 ```
 
 
-<p align="center"><img src ="/English/4_transform/gifs/TransformIssuesSolutionInfallible.gif" /></p>
+<p align="center"><img src =" gifs/TransformIssuesSolutionInfallible.gif" /></p>
 
 # For more information see [this](https://github.com/3b1b/manim/issues/425).

@@ -1,6 +1,6 @@
-# Manim FAQs ([code](https://github.com/Elteoremadebeethoven/AnimationsWithManim/blob/master/English/extra/faqs/faqs.py))
+# Manim FAQs ([code](https://github.com/Elteoremadebeethoven/AnimationsWithManim/blob/master faqs.py))
 ## What is CONFIG
-<p align="center"><img src ="/English/extra/faqs/gifs/WhatIsCONFIG.gif" width="800" /></p>
+<p align="center"><img src =" gifs/WhatIsCONFIG.gif" width="800" /></p>
 
 ```python3
 class WhatIsCONFIG(Scene):
@@ -30,7 +30,7 @@ class WhatIsCONFIG(Scene):
 ```
 
 ## Scene from another Scene
-<p align="center"><img src ="/English/extra/faqs/gifs/SceneFromAnotherScene.gif" width="800" /></p>
+<p align="center"><img src =" gifs/SceneFromAnotherScene.gif" width="800" /></p>
 
 ```python3
 class SceneFromAnotherScene(WhatIsCONFIG):
@@ -43,7 +43,7 @@ class SceneFromAnotherScene(WhatIsCONFIG):
 ```
 
 ## Change background color
-<p align="center"><img src ="/English/extra/faqs/gifs/ChangeBackgroundColor.png" width="800" /></p>
+<p align="center"><img src =" gifs/ChangeBackgroundColor.png" width="800" /></p>
 
 ```python3
 class ChangeBackgroundColor(Scene):
@@ -56,7 +56,7 @@ class ChangeBackgroundColor(Scene):
 ```
 
 ## Remove background stroke width of texts
-<p align="center"><img src ="/English/extra/faqs/gifs/RemoveBackgroundStrokeWidth.png" width="800" /></p>
+<p align="center"><img src =" gifs/RemoveBackgroundStrokeWidth.png" width="800" /></p>
 
 ```python3
 class RemoveBackgroundStrokeWidth(ChangeBackgroundColor):
@@ -69,7 +69,7 @@ class RemoveBackgroundStrokeWidth(ChangeBackgroundColor):
 ```
 
 ## Arrange Objects
-<p align="center"><img src ="/English/extra/faqs/gifs/ArrangeObjects1.gif" width="800" /></p>
+<p align="center"><img src =" gifs/ArrangeObjects1.gif" width="800" /></p>
 
 ```python3
 class ArrangeObjects(Scene):
@@ -106,7 +106,7 @@ class ArrangeObjects(Scene):
 ```
 
 ## Change position and size of the camera
-<p align="center"><img src ="/English/extra/faqs/gifs/ChangePositionAndSizeCamera.gif" width="800" /></p>
+<p align="center"><img src =" gifs/ChangePositionAndSizeCamera.gif" width="800" /></p>
 
 ```python3
 class ChangePositionAndSizeCamera(MovingCameraScene):
@@ -146,7 +146,7 @@ class ChangePositionAndSizeCamera(MovingCameraScene):
 ```
 
 ## Change position and size of the camera in other scenes
-<p align="center"><img src ="/English/extra/faqs/gifs/ChangePositionAndSizeCameraInAnotherScene.gif" width="800" /></p>
+<p align="center"><img src =" gifs/ChangePositionAndSizeCameraInAnotherScene.gif" width="800" /></p>
 
 ```python3
 class ChangePositionAndSizeCameraInAnotherScene(GraphScene,MovingCameraScene):
@@ -188,7 +188,7 @@ class ChangePositionAndSizeCameraInAnotherScene(GraphScene,MovingCameraScene):
 ```
 
 ## Linear transformation
-<p align="center"><img src ="/English/extra/faqs/gifs/LinearTransformation.gif" width="800" /></p>
+<p align="center"><img src =" gifs/LinearTransformation.gif" width="800" /></p>
 
 ```python3
 class LinearTransformation(LinearTransformationScene):
@@ -229,7 +229,7 @@ class LinearTransformation(LinearTransformationScene):
 ```
 
 ## Remove all objects in screen
-<p align="center"><img src ="/English/extra/faqs/gifs/RemoveAllObjectsInScreen.gif" width="800" /></p>
+<p align="center"><img src =" gifs/RemoveAllObjectsInScreen.gif" width="800" /></p>
 
 ```python3
 class RemoveAllObjectsInScreen(Scene):
@@ -257,7 +257,7 @@ class RemoveAllObjectsInScreen(Scene):
 ```
 
 ## Zoomed scene example
-<p align="center"><img src ="/English/extra/faqs/gifs/ZoomedSceneExample.gif" width="800" /></p>
+<p align="center"><img src ="gifs/ZoomedSceneExample.gif" width="800" /></p>
 
 ```python3
 class ZoomedSceneExample(ZoomedScene):

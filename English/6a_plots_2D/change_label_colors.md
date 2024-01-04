@@ -19,4 +19,4 @@ with
 ```
 Result:
 
-<p align="center"><img src ="/English/6a_plots_2D/gifs/ChanceColorLabels.png" /></p>
+<p align="center"><img src ="gifs/ChanceColorLabels.png" /></p>
